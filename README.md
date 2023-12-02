@@ -1,8 +1,10 @@
 # Welcome to my GitHub profile
 
-**3rd year Computer Science student at Concordia University**
+My name is Andrei Barbulescu and I am a third-year computer science student at Concordia University.
 
-### 
+##Languages and tools
+
+
 
 <!--
 **Shapeshifter17/Shapeshifter17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
