@@ -1,11 +1,11 @@
 # Welcome to my GitHub profile
 
 My name is Andrei Barbulescu and I am a third-year computer science student at Concordia University.
-I am currently learning how to use NeoVim.
+I have recently made the switch to a linux developping environment and I am learning how to use NeoVim and tmux right now.
 
 ## Languages and tools
 
-
+Java | C# | C/C++ 
 
 
 <!--
