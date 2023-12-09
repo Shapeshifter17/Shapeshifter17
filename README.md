@@ -3,9 +3,6 @@
 My name is Andrei Barbulescu and I am a third-year computer science student at Concordia University.
 I have recently made the switch to a linux developping environment and I am learning how to use NeoVim and tmux right now.
 
-## Projects
-
-I'm currently working on a board game in c++ that I will be releasing soon
 
 ## Languages and tools
 
