@@ -8,6 +8,10 @@ I have recently made the switch to a linux developping environment and I am lear
 
 Java | C# | C/C++ 
 
+## Projects
+
+I am currently working on making a stack based compiler in C#
+
 
 <!--
 **Shapeshifter17/Shapeshifter17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
