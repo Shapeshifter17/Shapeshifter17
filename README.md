@@ -10,7 +10,7 @@ Java | C# | C/C++
 
 ## Projects
 
-I am currently working on making a stack based compiler in C#
+I am currently working on making a compiler in C#
 
 
 <!--
