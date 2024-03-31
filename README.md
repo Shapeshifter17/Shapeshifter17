@@ -6,7 +6,7 @@ I have recently made the switch to a linux developping environment and I am lear
 
 ## Languages and tools
 
-Java | C# | C/C++ 
+Java | C# | C++ 
 
 ## Projects
 
