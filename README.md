@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile
 
-My name is Andrei Barbulescu and I am a third-year computer science student at Concordia University.
-I have recently made the switch to a linux developping environment and I am learning how to use NeoVim and tmux right now.
+My name is Andrei Barbulescu and I am a software developper based in Montreal.
+I'm comfortable doing back-end development in a dot net environment.
 
 
 ## Languages and tools
@@ -10,8 +10,7 @@ Java | C# | C++
 
 ## Projects
 
-I am currently working on making a compiler in C#
-
+I am currently working on making a search engine using python
 
 <!--
 **Shapeshifter17/Shapeshifter17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
