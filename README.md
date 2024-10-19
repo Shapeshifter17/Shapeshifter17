@@ -1,7 +1,7 @@
 # Welcome to my GitHub profile
 
 My name is Andrei Barbulescu and I am a software developper based in Montreal.
-I'm comfortable doing back-end development in a dotnet environment (C#).
+I'm comfortable doing back-end development in a dotnet environment and I am willing to learn new technologies.
 
 
 ## Languages and tools
