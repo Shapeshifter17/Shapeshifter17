@@ -10,7 +10,7 @@ Java | C# | C++
 
 ## Projects
 
-I am currently working on making a search engine using python
+I am currently working on learning the best practices in C# such as DI
 
 <!--
 **Shapeshifter17/Shapeshifter17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
